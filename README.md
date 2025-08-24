@@ -1,4 +1,4 @@
-## Hi!, I’m Eric, 
+## Hi!, I’m Eric Pagalananm From Laguna State Polytechnic University
 
 A Computer Science student eager to learn and explore the vast world of technology. While I’m still gaining experience, I enjoy diving into programming, problem-solving, and understanding how computers influence our daily lives. This space serves as my journal for sharing projects, progress, and experiences as I continue to grow in this field
 
