@@ -5,22 +5,22 @@ A Computer Science student eager to learn and explore the vast world of technolo
 About Me:
 I have a friendly and conscientious personality. I'm with a strong and thorough work ethic, I can be relied upon the training. Willing to learn determine to be an asset to your company through out the duration of my training period
 
-College Level
-Laguna State Polytechnic University
-Santa Cruz Main Campus
-Bachelor of Science in Computer Science
-2025-2026 - Presnt
+College Level<br/>
+Laguna State Polytechnic University<br/>
+Santa Cruz Main Campus<br/>
+Bachelor of Science in Computer Science<br/>
+2025-2026 - Presnt<br/>
 
-Senior High School
-Laguna State Polytechnic University 
-Santa Cruz Main Campus
-TVL- Information and Communication Technology 
-2021 -2023
+Senior High School<br/>
+Laguna State Polytechnic University <br/>
+Santa Cruz Main Campus<br/>
+TVL- Information and Communication Technology <br/>
+2021 -2023<br/>
 
-Junior High School
-Maranatha Christian Academy 
-Brgy. Calios Sta Cruz, Laguna
-2019 - 2021
+Junior High School<br/>
+Maranatha Christian Academy<br/>
+Brgy. Calios Sta Cruz, Laguna<br/>
+2019 - 2021<br/>
 
 
 
