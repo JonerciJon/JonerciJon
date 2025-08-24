@@ -5,11 +5,12 @@ A Computer Science student eager to learn and explore the vast world of technolo
 About Me:
 I have a friendly and conscientious personality. I'm with a strong and thorough work ethic, I can be relied upon the training. Willing to learn determine to be an asset to your company through out the duration of my training period
 
+Educational Background<br/>
 College Level<br/>
 Laguna State Polytechnic University<br/>
 Santa Cruz Main Campus<br/>
 Bachelor of Science in Computer Science<br/>
-2025-2026 - Presnt<br/>
+2025-2026 - Present<br/>
 
 Senior High School<br/>
 Laguna State Polytechnic University <br/>
