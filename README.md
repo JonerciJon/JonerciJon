@@ -10,7 +10,7 @@ College Level<br/>
 Laguna State Polytechnic University<br/>
 Santa Cruz Main Campus<br/>
 Bachelor of Science in Computer Science<br/>
-2025-2026 - Present<br/>
+2021 - Present<br/>
 
 Senior High School<br/>
 Laguna State Polytechnic University <br/>
