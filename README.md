@@ -1,9 +1,26 @@
-## Hi!, I’m Eric Pagalananm From Laguna State Polytechnic University
+## Hi!, I’m Eric Pagalanan From Laguna State Polytechnic University
 
 A Computer Science student eager to learn and explore the vast world of technology. While I’m still gaining experience, I enjoy diving into programming, problem-solving, and understanding how computers influence our daily lives. This space serves as my journal for sharing projects, progress, and experiences as I continue to grow in this field
 
 About Me:
 I have a friendly and conscientious personality. I'm with a strong and thorough work ethic, I can be relied upon the training. Willing to learn determine to be an asset to your company through out the duration of my training period
+
+College Level
+Laguna State Polytechnic University
+Santa Cruz Main Campus
+Bachelor of Science in Computer Science
+2025-2026 - Presnt
+
+Senior High School
+Laguna State Polytechnic University 
+Santa Cruz Main Campus
+TVL- Information and Communication Technology 
+2021 -2023
+
+Junior High School
+Maranatha Christian Academy 
+Brgy. Calios Sta Cruz, Laguna
+2019 - 2021
 
 
 
